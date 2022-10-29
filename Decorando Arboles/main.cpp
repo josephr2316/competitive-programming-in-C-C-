@@ -47,7 +47,10 @@ int main() {
     std::for_each(matrix.begin(),matrix.end(), [](std::string &m){
         std::cout << m <<std::endl;
     });
-
+    for (std::string &m: matrix)
+        std::cout << m <<std::endl;
+    for (auto &c: matrix)
+        std::cout << c <<std::endl;
 
 
     return 0;
