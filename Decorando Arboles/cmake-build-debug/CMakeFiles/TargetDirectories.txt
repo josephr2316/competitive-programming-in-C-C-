@@ -1,0 +1,3 @@
+C:/Users/josep/CLionProjects/Competitive Programming/Decorando Arboles/cmake-build-debug/CMakeFiles/Decorando_Arboles.dir
+C:/Users/josep/CLionProjects/Competitive Programming/Decorando Arboles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/josep/CLionProjects/Competitive Programming/Decorando Arboles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
